@@ -1,6 +1,7 @@
-# 2023.2 - Programação Orientada a Objetos
+# 2023.2 - Turma 27
 
-Turma 27 - Quartas à noite
+POO - Quartas à noite
+JEE - Quintas à noite
 
 Email do Prof.: thiago.traue@uni9.pro.br
 
@@ -8,13 +9,17 @@ Email do Prof.: thiago.traue@uni9.pro.br
 
 ## Preparação do Ambiente de Desenvolvimento
 
+Para essa disciplina usamos um ambiente de desenvolvimento específico. Para saber como o preparar, utilize [ESTE DOCUMENTO](https://docs.google.com/document/d/1_qTzcL4jXfBozhs7KWUMv9pL0cxy9aJ1HokReHpGG_E/edit?usp=sharing). 
+
+
 ## Mini ementa da disciplina
 
-Vamos aprender a desenvolver projetos em Java usando os mais importantes conceitos de Progamação Orientada a Objetos
+Vamos aprender a desenvolver projetos em Java e Java EE usando os mais importantes conceitos de Progamação Orientada a Objetos
+
 
 ## Critérios de Avaliação
 
-Teremos uma prova no dia 06.12
+Prova: 06.12 em aula
 
 
 ## Links interessantes
