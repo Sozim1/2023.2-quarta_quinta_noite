@@ -5,6 +5,10 @@ JEE - Quintas à noite
 
 Email do Prof.: thiago.traue@uni9.pro.br
 
+Classroom das disciplinas:
+- [Terça noite](https://classroom.google.com/c/NjE3NTMzNTUwOTgy?cjc=xdbz3ed)
+- [Quarta noite](https://classroom.google.com/c/NjE3NTMzMDczMjM2?cjc=y2riojr)
+
 ***
 
 ## Preparação do Ambiente de Desenvolvimento
