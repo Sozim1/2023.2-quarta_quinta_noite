@@ -29,7 +29,7 @@ public class Main {
         
         media = (nota1 + nota2 + nota3) / 3;
        
-        System.out.println("\nMédia: " + media);
+        System.out.println("\nMédia: " + media);      
         
         if (media >= 6) {
             System.out.println("Aprovado!");
