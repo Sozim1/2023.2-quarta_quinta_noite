@@ -6,8 +6,8 @@ JEE - Quintas à noite
 Email do Prof.: thiago.traue@uni9.pro.br
 
 Classroom das disciplinas:
-- [Terça noite](https://classroom.google.com/c/NjE3NTMzNTUwOTgy?cjc=xdbz3ed)
-- [Quarta noite](https://classroom.google.com/c/NjE3NTMzMDczMjM2?cjc=y2riojr)
+- [Quarta Noite (POO)](https://classroom.google.com/c/NjE3NTMzMDczMjM2?cjc=y2riojr)
+- [Quinta Noite (JEE)](https://classroom.google.com/c/NjE3NTMzNTUwOTgy?cjc=xdbz3ed)
 
 ***
 
