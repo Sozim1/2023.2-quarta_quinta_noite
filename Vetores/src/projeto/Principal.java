@@ -65,5 +65,24 @@ class Principal {
         } else {
             System.out.println("Encontrei " + aux + " vezes o valor " + valorBuscado);
         }
+        
+        
+        /*
+            2. Faça um programa em Java que leia N números inteiros ("N" deve ser lido)
+            e imprima a lista de valores informando se cada posição armazena 
+            um valor PAR ou ÍMPAR
+        
+
+            3. Faça um programa que leia um vetor vet de 10 elementos e obtenha um 
+            vetor w cujos componentes são os fatoriais dos respectivos 
+            componentes de vet.
+        
+ 
+            4. Construa um programa que leia dados para um vetor de 10 elementos 
+            inteiros. Imprimir o maior e o menor, sem ordenar, o 
+            percentual de números pares e a média dos elementos do vetor.
+
+        */
+
     }
 }
